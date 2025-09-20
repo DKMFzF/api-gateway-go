@@ -2,6 +2,8 @@
 
 High-performance API gateway to Golang
 
+The api is a getway for a social network application, this repository is a duplicate of my repository in gitlab. The project is still in a closed stage, but there are already functional modules, such as api-getway.
+
 ```bash
 go version go1.24.6
 ```
