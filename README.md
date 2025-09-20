@@ -1,4 +1,4 @@
-# Api-Getway
+# Api-Gateway
 
 High-performance API gateway to Golang
 
@@ -11,8 +11,8 @@ go version go1.24.6
 ## How to get started?
 
 ```bash
-git clone https://gitlab.com/fmkv/fmkv-backend.git
-cd fmkv-backend.git
+git clone https://github.com/DKMFzF/api-gateway-go.git
+cd api-gateway-go
 
 go mod tidy
 
