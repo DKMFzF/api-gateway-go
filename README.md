@@ -1,5 +1,7 @@
 # Api-Gateway
 
+### My main repo in [GitLab](https://gitlab.com/fmkv/fmkv-backend/-/tree/main/api-gateway?ref_type=heads)
+
 High-performance API gateway to Golang
 
 The api is a getway for a social network application, this repository is a duplicate of my repository in gitlab. The project is still in a closed stage, but there are already functional modules, such as api-getway.
